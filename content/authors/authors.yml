@@ -1,0 +1,11 @@
+- name: Adam McKnight
+  bio: |
+    I'm a Web Developer, Designer, and Creative Director! This is my personal blog and home to my random thoughts!
+  avatar: ./avatars/profile.jpg
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+  featured: true
